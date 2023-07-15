@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url("assets/star-wars-background.jpeg");
+}
+
+#app {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

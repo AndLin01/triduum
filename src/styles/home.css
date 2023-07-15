@@ -1,0 +1,6 @@
+.container-cards {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  color: #fff;
+  font-weight: bolder;
+}

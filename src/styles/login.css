@@ -1,0 +1,17 @@
+#logo {
+  width: 45%;
+  margin-bottom: 2rem;
+}
+form {
+  width: 70%;
+}
+.btn {
+  background-color: #dba90d;
+  color: #000;
+  font-weight: bold;
+  padding: 0.7rem 2.5rem 0.7rem 2.5rem;
+}
+.error {
+  margin-top: 0.3rem;
+  color: #ff0000;
+}
